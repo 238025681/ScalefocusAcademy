@@ -99,7 +99,7 @@ public class P03_LegendaryFarming {
 
         return materials.get(material);
     }
-
+//This is abstraction for LEGENDARY ITEM//
     private static abstract class LegendaryItems {
 
         private final String MATERIAL;
